@@ -9,7 +9,7 @@ I would like to keep the list small and focused to best resources. Reason: I don
 - is too long to get through it
 - offers to many possibilities
 
-Ensure your pull request adheres to the following guidelines, if you would like to add something that must be on that list;
+Ensure your pull request adheres to the following guidelines, if you would like to add something that must be on that list:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - If you just created something, wait at least a couple of weeks before submitting.
