@@ -6,7 +6,7 @@
 
 ## Contents
 
-- [JavaScript Reference](#javaScript-reference)
+- [JavaScript References](#javaScript-references)
 - [Tutorials](#tutorials)
 - [Free eBooks](#free-ebooks)
 - [Books](#books)
@@ -14,10 +14,11 @@
 - [Videos](#videos)
 - [Interactive learning](#interactive-learning)
 
-## JavaScript Reference
+## JavaScript References
 
 - [MDN](https://developer.mozilla.org/docs/Web/JavaScript/Reference) - Simply the best language reference.
 - [DevDocs](http://devdocs.io/javascript) - Search MDN comfortably. Even offline.
+- [Simplified JavaScript Jargon](http://jargon.js.org) – Glossary which explains all the buzzwords from the JavaScript eco system.
 
 ## Tutorials
 
