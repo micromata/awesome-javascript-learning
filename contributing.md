@@ -4,7 +4,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 ## Guidelines
 
-I would like to keep the list small and focused to best resources. Reason: I don’t want to frustrate people who like to learn JavaScript with a list that:
+We would like to keep the list small and focused to best resources. Reason: We don’t want to frustrate people who like to learn JavaScript with a list that:
 
 - is too long to get through it
 - offers too many possibilities
