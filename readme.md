@@ -24,6 +24,7 @@
 
 - [MDN JavaScript Guide](https://developer.mozilla.org/docs/Web/JavaScript/Guide) - Tutorials covering language basics
 - [JavaScript Closures Demystified](https://www.sitepoint.com/javascript-closures-demystified/) – Covering closures. From basics to use cases. Has useful comments.
+- [Promises](http://www.sohamkamani.com/blog/2016/08/28/incremenal-tutorial-to-promises/) - Learning promises step by step.
 
 ## Free eBooks
 
