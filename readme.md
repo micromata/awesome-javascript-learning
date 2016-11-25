@@ -23,7 +23,7 @@
 ## Tutorials
 
 - [MDN JavaScript Guide](https://developer.mozilla.org/docs/Web/JavaScript/Guide) - Tutorials covering language basics
-- [Closures](https://developer.mozilla.org/docs/Web/JavaScript/Closures) – Covering closures. From basics to use cases.
+- [JavaScript Closures Demystified](https://www.sitepoint.com/javascript-closures-demystified/) – Covering closures. From basics to use cases. Has useful comments.
 
 ## Free eBooks
 
