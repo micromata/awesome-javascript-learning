@@ -2,6 +2,8 @@
 
 > An awesome list limited to the best JavaScript learning resources
 
+This list is about JavaScript – the language. Not about Tooling, frameworks or other aspects of the todays JavaScript ecosystem.
+
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
 ## Contents
