@@ -57,6 +57,7 @@ Thin books which you can get through in a few days.
 - [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) - Awesome talk about they way JavaScript works.
 - [Become a Javascript Console Power-User](https://www.youtube.com/watch?v=4mf_yNLlgic) – Introduction to the browsers JavaScript console.
 - [Debugging The Web](https://www.youtube.com/watch?v=HF1luRD4Qmk) - Learn state of the art in debugging using Chrome dev tools.
+- [JavaScript 30](https://javascript30.com/) - 30 video tutorials to build neat little things with just plain JavaScript.
 
 ## Interactive learning
 - [Codeacademy](https://www.codecademy.com/learn/javascript) - Fundamentals of JavaScript.
