@@ -4,7 +4,7 @@
 
 This list is about JavaScript – the language. Not about APIs, tooling, frameworks or other aspects of todays JavaScript ecosystem.
 
-*Please read the [contribution guidelines](contributing.md) before contributing.*
+*Please read the [contribution guidelines](.github/contributing.md) before contributing.*
 
 ## Contents
 
