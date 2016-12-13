@@ -62,6 +62,7 @@ Thin books which you can get through in a few days.
 - [Become a Javascript Console Power-User](https://www.youtube.com/watch?v=4mf_yNLlgic) – Introduction to the browsers JavaScript console.
 - [Debugging The Web](https://www.youtube.com/watch?v=HF1luRD4Qmk) - Learn state of the art in debugging using Chrome dev tools.
 - [JavaScript 30](https://javascript30.com/) - 30 video tutorials to build neat little things with just plain JavaScript.
+- [Promises Are So Passé](https://vimeo.com/181328943) - Talk that shows where async goes next, why it matters, and what you need to do to put it into practice today.
 
 ## Interactive learning
 - [Codeacademy](https://www.codecademy.com/learn/javascript) - Fundamentals of JavaScript.
