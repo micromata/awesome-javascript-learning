@@ -16,6 +16,8 @@ This list is about JavaScript – the language. Not about APIs, tooling, framewo
 - [Videos](#videos)
 - [Interactive learning](#interactive-learning)
 
+----
+
 ## JavaScript References
 
 - [MDN](https://developer.mozilla.org/docs/Web/JavaScript/Reference) - Simply the best language reference.
