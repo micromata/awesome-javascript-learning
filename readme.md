@@ -32,6 +32,7 @@ This list is about JavaScript – the language. Not about APIs, tooling, framewo
 - [Array operations](https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter) - Covering the usefulness of Array’s map, reduce, and filter methods.
 - [Async functions](https://developers.google.com/web/fundamentals/getting-started/primers/async-functions) - Shows how to use async functions to make promises friendly.
 - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) - Everything you need to know about the debugging tools built into Google Chrome.
+- [Pure functions](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976) - Answers the question »What is a Pure Function?« epicly.
 
 ## Free eBooks
 
