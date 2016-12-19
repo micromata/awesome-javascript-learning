@@ -60,7 +60,7 @@ Thin books which you can get through in a few days.
 ## Videos
 
 - [== ? === ??? ...#@^%](https://www.youtube.com/watch?v=qGyqzN0bjhc) - Basic talk about type coercion and strict type comparison.
-- [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) - Awesome talk about they way JavaScript works.
+- [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) - Awesome talk about the way JavaScript works.
 - [Become a Javascript Console Power-User](https://www.youtube.com/watch?v=4mf_yNLlgic) – Introduction to the browsers JavaScript console.
 - [Debugging The Web](https://www.youtube.com/watch?v=HF1luRD4Qmk) - Learn state of the art in debugging using Chrome dev tools.
 - [JavaScript 30](https://javascript30.com/) - 30 video tutorials to build neat little things with just plain JavaScript.
