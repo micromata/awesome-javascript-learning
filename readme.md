@@ -12,6 +12,7 @@ This list is about JavaScript – the language. Not about APIs, tooling, framewo
 - [Tutorials](#tutorials)
 - [Free eBooks](#free-ebooks)
 - [Books](#books)
+- [Blogs](#blogs)
 - [ES6 and above](#es6-and-above)
 - [Videos](#videos)
 - [Interactive learning](#interactive-learning)
