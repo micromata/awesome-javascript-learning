@@ -49,6 +49,10 @@ Thin books which you can get through in a few days.
 - [The Principles of Object-Oriented JavaScript](https://www.nostarch.com/oojs) – Comprehensible, especially interesting for people with a class based OOP background.
 - [JavaScript Enlightenment](http://shop.oreilly.com/product/0636920027713.do) - Will solidify your understanding of the language.
 
+## Blogs
+- [②ality](http://www.2ality.com/) - Language features and APIs well explained by author and trainer Dr. Axel Rauschmayer.
+- [Pony Foo](https://ponyfoo.com/) - Detailed and high quality posts from Nicolás Bevacqua all related to JavaScript.
+
 ## ES6 and above
 
 - [Exploring ES6](http://exploringjs.com/es6.html) – Good introduction with in-depth chapters.
