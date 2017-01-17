@@ -2,7 +2,7 @@
 
 > An awesome list limited to the best JavaScript learning resources
 
-This list is about JavaScript – the language. Not about APIs, tooling, frameworks or other aspects of todays JavaScript ecosystem.
+This list is mainly about JavaScript – the language. Not about APIs, tooling, frameworks or other aspects of todays JavaScript ecosystem.
 
 *Please read the [contribution guidelines](.github/contributing.md) before contributing.*
 
@@ -13,9 +13,10 @@ This list is about JavaScript – the language. Not about APIs, tooling, framewo
 - [Free eBooks](#free-ebooks)
 - [Books](#books)
 - [Blogs](#blogs)
-- [ES6 and above](#es6-and-above)
 - [Videos](#videos)
 - [Interactive learning](#interactive-learning)
+- [ES6 and above](#es6-and-above)
+- [DOM related](#dom-related)
 
 ---
 
@@ -54,14 +55,6 @@ Thin books which you can get through in a few days.
 - [②ality](http://www.2ality.com/) - Language features and APIs well explained by author and trainer Dr. Axel Rauschmayer.
 - [Pony Foo](https://ponyfoo.com/) - Detailed and high quality posts from Nicolás Bevacqua all related to JavaScript.
 
-## ES6 and above
-
-- [Exploring ES6](http://exploringjs.com/es6.html) – Good introduction with in-depth chapters.
-- [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017.html) - Follow up of »Exploring ES6«.
-- [Setting up ES6](http://exploringjs.com/setting-up-es6.html) - Explains how to set up ES6 projects that are transpiled to ES5.
-- [ES6 Overview](https://ponyfoo.com/articles/es6) - Bullet point overview including in-depth articles.
-- [ES6 Katas](http://es6katas.org) - Learn ES6 by solving unit test online.
-
 ## Videos
 
 - [== ? === ??? ...#@^%](https://www.youtube.com/watch?v=qGyqzN0bjhc) - Basic talk about type coercion and strict type comparison.
@@ -77,6 +70,19 @@ Thin books which you can get through in a few days.
 - [Udacity JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804) - They also offer more advanced courses.
 - [Code School](https://www.codeschool.com/learn/javascript) - From Basics to Best Practices. Different courses related to JavaScript.
 - [Functional programming](http://reactivex.io/learnrx/) - Learn basic principles of functional programming in an interactive way by using map, filter, concatAll, reduce and zip.
+
+## ES6 and above
+
+- [Exploring ES6](http://exploringjs.com/es6.html) – Good introduction with in-depth chapters.
+- [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017.html) - Follow up of »Exploring ES6«.
+- [Setting up ES6](http://exploringjs.com/setting-up-es6.html) - Explains how to set up ES6 projects that are transpiled to ES5.
+- [ES6 Overview](https://ponyfoo.com/articles/es6) - Bullet point overview including in-depth articles.
+- [ES6 Katas](http://es6katas.org) - Learn ES6 by solving unit test online.
+
+## DOM related
+
+- [DOM Enlightenment](http://domenlightenment.com) - A whole book about how to access an manipulate the DOM without a library.
+- [You Might Not Need jQuery](http://youmightnotneedjquery.com/) - Get plain JavaScript code snippets (and see their jQuery equivalents).
 
 ## License
 
