@@ -52,8 +52,8 @@ Thin books which you can get through in a few days.
 - [JavaScript Enlightenment](http://shop.oreilly.com/product/0636920027713.do) - Will solidify your understanding of the language.
 
 ## Blogs
-- [②ality](http://www.2ality.com/) - Language features and APIs well explained by author and trainer Dr. Axel Rauschmayer.
-- [Pony Foo](https://ponyfoo.com/) - Detailed and high quality posts from Nicolás Bevacqua all related to JavaScript.
+- [②ality](http://www.2ality.com) - Language features and APIs well explained by author and trainer Dr. Axel Rauschmayer.
+- [Pony Foo](https://ponyfoo.com) - Detailed and high quality posts from Nicolás Bevacqua all related to JavaScript.
 
 ## Videos
 
@@ -82,7 +82,7 @@ Thin books which you can get through in a few days.
 ## DOM related
 
 - [DOM Enlightenment](http://domenlightenment.com) - A whole book about how to access an manipulate the DOM without a library.
-- [You Might Not Need jQuery](http://youmightnotneedjquery.com/) - Get plain JavaScript code snippets (and see their jQuery equivalents).
+- [You Might Not Need jQuery](http://youmightnotneedjquery.com) - Get plain JavaScript code snippets (and see their jQuery equivalents).
 
 ## License
 
