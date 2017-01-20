@@ -17,6 +17,7 @@ This list is mainly about JavaScript – the language. Not about APIs, tooling, 
 - [Interactive learning](#interactive-learning)
 - [ES6 and above](#es6-and-above)
 - [DOM related](#dom-related)
+- [Node.js](#nodejs)
 
 ---
 
@@ -83,6 +84,12 @@ Thin books which you can get through in a few days.
 
 - [DOM Enlightenment](http://domenlightenment.com) - A whole book about how to access an manipulate the DOM without a library.
 - [You Might Not Need jQuery](http://youmightnotneedjquery.com) - Get plain JavaScript code snippets (and see their jQuery equivalents).
+
+## Node.js
+
+- [The Art of Node](https://github.com/maxogden/art-of-node#readme) - Introductory tutorial covering the basics. 
+- [NodeSchool](https://nodeschool.io) - Interactive self guided workshops you can also do on your own.
+- [Node Patterns](http://nodepatternsbooks.com) - Short books about code and networking patterns related to Node.js.
 
 ## License
 
