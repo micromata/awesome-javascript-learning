@@ -4,9 +4,9 @@ Please note that this project is released with a [Contributor Code of Conduct](.
 
 ## Guidelines
 
-We would like to keep the list small and focused to best resources. Reason: We don’t want to frustrate people who like to learn JavaScript with a list that:
+We would like to keep the list small and focused to the best resources. Reason: We don’t want to frustrate people who like to learn JavaScript with a list that:
 
-- is too long to get through it
+- is too long to get through
 - offers too many possibilities
 
 Ensure your pull request adheres to the following guidelines, if you would like to add something that must be on that list:
