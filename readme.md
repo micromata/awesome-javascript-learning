@@ -81,6 +81,7 @@ Thin books which you can get through in a few days.
 - [Setting up ES6](http://exploringjs.com/setting-up-es6.html) - Explains how to set up ES6 projects that are transpiled to ES5.
 - [ES6 Overview](https://ponyfoo.com/articles/es6) - Bullet point overview including in-depth articles.
 - [ES6 Katas](http://es6katas.org) - Learn ES6 by solving unit test online.
+- [Practical ES6](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices.
 
 ## DOM related
 
