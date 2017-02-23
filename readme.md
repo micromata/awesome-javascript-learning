@@ -37,6 +37,7 @@ This list is mainly about JavaScript – the language. Not about APIs, tooling, 
 - [Async functions](https://developers.google.com/web/fundamentals/getting-started/primers/async-functions) - Shows how to use async functions to make promises friendly.
 - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) - Everything you need to know about the debugging tools built into Google Chrome.
 - [Pure functions](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976) - Answers the question »What is a Pure Function?« epicly.
+- [Glossary of Modern JavaScript Concepts: Part 1](https://auth0.com/blog/glossary-of-modern-javascript-concepts/) - Learn the fundamentals of functional programming, reactive programming, and functional reactive programming in JavaScript.
 
 ## Free eBooks
 
