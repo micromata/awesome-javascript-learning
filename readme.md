@@ -76,6 +76,7 @@ Thin books which you can get through in a few days.
 - [Udacity JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804) - They also offer more advanced courses.
 - [Code School](https://www.codeschool.com/learn/javascript) - From Basics to Best Practices. Different courses related to JavaScript.
 - [Functional programming](http://reactivex.io/learnrx/) - Learn basic principles of functional programming in an interactive way by using map, filter, concatAll, reduce and zip.
+- [Scotch](https://scotch.io/) - The best tutorials for web developtment using Angular.js, node.js, etc
 
 ## ES6 and above
 
