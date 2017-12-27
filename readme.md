@@ -41,6 +41,7 @@ This list is mainly about JavaScript – the language. Not about APIs, tooling, 
 - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) - Everything you need to know about the debugging tools built into Google Chrome.
 - [Pure functions](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976) - Answers the question »What is a Pure Function?« epicly.
 - [Glossary of Modern JavaScript Concepts: Part 1](https://auth0.com/blog/glossary-of-modern-javascript-concepts/) - Learn the fundamentals of functional programming, reactive programming, and functional reactive programming in JavaScript.
+- [Javascript tutorial](https://hackr.io/tutorials/learn-javascript) - Learn Javascript from a diverse range of online courses sorted by the developer community.
 
 ## Free eBooks
 
