@@ -37,6 +37,7 @@ This list is mainly about JavaScript – the language. Not about APIs, tooling, 
 - [Glossary of Modern JavaScript Concepts: Part 1](https://auth0.com/blog/glossary-of-modern-javascript-concepts/) - Learn the fundamentals of functional programming, reactive programming, and functional reactive programming in JavaScript.
 - [Glossary of Modern JavaScript Concepts: Part 2](https://auth0.com/blog/glossary-of-modern-javascript-concepts-part-2/) -  Explains concepts like scope and closures, data flow, change detection, components, compilation, tree shaking.
 - [JavaScript Closures Demystified](https://www.sitepoint.com/javascript-closures-demystified/) – Covering closures. From basics to use cases. Has useful comments.
+- [Robust Client-Side JavaScript](https://molily.de/robust-javascript/) - Guide focused on writing robust code by describing possible failures and explaining how to prevent them.
 - [Promises](http://www.sohamkamani.com/blog/2016/08/28/incremenal-tutorial-to-promises/) - Learning promises step by step.
 - [Array operations](https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter) - Covering the usefulness of Array’s map, reduce, and filter methods.
 - [Async functions](https://developers.google.com/web/fundamentals/getting-started/primers/async-functions) - Shows how to use async functions to make promises friendly.
