@@ -9,7 +9,7 @@ This list is mainly about JavaScript – the language. Not about APIs, tooling, 
 ## Contents
 
 - [JavaScript References](#javascript-references)
-- [Tutorials](#tutorials)
+- [Articles & Tutorials](#articles--tutorials)
 - [Free eBooks](#free-ebooks)
 - [Books](#books)
 - [Blogs](#blogs)
