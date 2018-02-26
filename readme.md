@@ -32,7 +32,7 @@ This list is mainly about JavaScript – the language. Not about APIs, tooling, 
 
 ## Articles & Tutorials
 
-- [MDN JavaScript Guide](https://developer.mozilla.org/docs/Web/JavaScript/Guide) - Tutorials covering language basics.
+- [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) - Compact introduction covering types, variables, operators, control structures, functions and closures. _*_
 - [JavaScript.info](http://javascript.info) - A modern tutorial from the basics to advanced topics with simple, but detailed explanations.
 - [Glossary of Modern JavaScript Concepts: Part 1](https://auth0.com/blog/glossary-of-modern-javascript-concepts/) - Learn the fundamentals of functional programming, reactive programming, and functional reactive programming in JavaScript.
 - [Glossary of Modern JavaScript Concepts: Part 2](https://auth0.com/blog/glossary-of-modern-javascript-concepts-part-2/) -  Explains concepts like scope and closures, data flow, change detection, components, compilation, tree shaking.
@@ -43,6 +43,8 @@ This list is mainly about JavaScript – the language. Not about APIs, tooling, 
 - [Async functions](https://developers.google.com/web/fundamentals/getting-started/primers/async-functions) - Shows how to use async functions to make promises friendly.
 - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) - Everything you need to know about the debugging tools built into Google Chrome.
 - [Pure functions](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976) - Answers the question »What is a Pure Function?« epicly.
+
+_* MDN offers a lot of [other guides](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) for every level of knowledge to dig deeper._
 
 ## Free eBooks
 
