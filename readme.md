@@ -74,7 +74,7 @@ Thin books which you can get through in a few days.
 
 - [== ? === ??? ...#@^%](https://www.youtube.com/watch?v=qGyqzN0bjhc) - Basic talk about type coercion and strict type comparison.
 - [FunFunFunction](https://www.youtube.com/mpjmevideos) - Educational plus entertaining YouTube show covering language features as well as architectural topics amongst others. 
-- [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) - Awesome talk about the way JavaScript works.
+- [What the heck is the event loop anyway?](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D) - Awesome talk about the way JavaScript works, and a tool for exploring the callstack.
 - [Become a Javascript Console Power-User](https://www.youtube.com/watch?v=4mf_yNLlgic) – Introduction to the browsers JavaScript console.
 - [Debugging The Web](https://www.youtube.com/watch?v=HF1luRD4Qmk) - Learn state of the art in debugging using Chrome dev tools.
 - [JavaScript 30](https://javascript30.com) - 30 video tutorials to build neat little things with just plain JavaScript.
