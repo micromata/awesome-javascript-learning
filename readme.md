@@ -49,6 +49,7 @@ This list is mainly about JavaScript – the language. Not about APIs, tooling, 
 - [Promises](http://www.sohamkamani.com/blog/2016/08/28/incremenal-tutorial-to-promises/) - Learning promises step by step.
 - [Async/Await](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9) - Tutorial showing the advantages of consuming Promises via async functions.
 - [Pure functions](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976) - Answers the question »What is a Pure Function?« epicly.
+- [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) – Describes thoroughly how to use the Fetch API to receive and send data. 
 - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) - Everything you need to know about the debugging tools built into Google Chrome.
 
 ## Free eBooks
