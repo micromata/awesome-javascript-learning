@@ -104,6 +104,8 @@ Thin books which you can get through in a few days.
 
 - [DOM Enlightenment](http://domenlightenment.com) - A whole book about how to access an manipulate the DOM without a library.
 - [You Might Not Need jQuery](http://youmightnotneedjquery.com) - Get plain JavaScript code snippets (and see their jQuery equivalents).
+- [Traversing the DOM with JavaScript](https://zellwk.com/blog/dom-traversals/) - A tutorial featuring native methods to traverse the DOM.
+
 
 ## Node.js
 
