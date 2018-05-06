@@ -8,6 +8,9 @@ This list is mainly about JavaScript – the language. Not about APIs, tooling, 
 
 ## Contents
 
+<!-- Run `npm run toc` to generate the TOC -->
+<!-- toc -->
+
 - [JavaScript References](#javascript-references)
 - [Articles & Tutorials](#articles--tutorials)
 - [Free eBooks](#free-ebooks)
@@ -18,6 +21,8 @@ This list is mainly about JavaScript – the language. Not about APIs, tooling, 
 - [ES6 and above](#es6-and-above)
 - [DOM related](#dom-related)
 - [Node.js](#nodejs)
+
+<!-- tocstop -->
 
 ---
 
@@ -114,7 +119,9 @@ Thin books which you can get through in a few days.
 - [Node Patterns](http://nodepatternsbooks.com) - Short books about code and networking patterns related to Node.js.
 - [Learn Node](https://learnnode.com) - A premium training course to learn to build apps with Node.js, Express, MongoDB.
 
-## License
+---
+
+### License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 

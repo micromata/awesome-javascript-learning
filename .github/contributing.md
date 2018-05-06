@@ -22,6 +22,11 @@ Ensure your pull request adheres to the following guidelines, if you would like 
 - Make sure your text editor is set to remove trailing whitespace.
 - Link additions should be added to the bottom of the relevant section.
 - New categories or improvements to the existing categorization are welcome.
+  - To regenerate the table of contents:
+    - ```
+      npm install
+      npm run toc
+      ```
 - Pull requests should have a useful title and include a link to the resource and why it should be included.
 
 Thank you for your suggestion!
