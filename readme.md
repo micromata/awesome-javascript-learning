@@ -14,6 +14,7 @@ This list is mainly about JavaScript – the language. Not about APIs, tooling, 
 - [Books](#books)
 - [Blogs](#blogs)
 - [Videos](#videos)
+- [Study Tools](#study-tools)
 - [Interactive learning](#interactive-learning)
 - [ES6 and above](#es6-and-above)
 - [DOM related](#dom-related)
@@ -80,6 +81,14 @@ Thin books which you can get through in a few days.
 - [JavaScript 30](https://javascript30.com) - 30 video tutorials to build neat little things with just plain JavaScript.
 - [Promises Are So Passé](https://vimeo.com/181328943) - Talk that shows where async goes next, why it matters, and what you need to do to put it into practice today.
 - [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY) - Talk containing the best explanation of map/reduce.
+
+## Study Tools 
+
+- [PythonTutor for JavaScript](http://www.pythontutor.com/javascript.html#) - visualize how JS steps through code and manages memory. [a collection of snippets for putut](https://github.com/janke-learning/js-notional-machine/blob/master/javascript-in-order.md)
+- control flow visualization: [code2flow](https://code2flow.com) (generates permalinks), [bogdan-lyashenko](https://bogdan-lyashenko.github.io/js-code-to-svg-flowchart/) (cleaner diagrams)
+- [Latentflip: Loupe](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D) - visualize how any snippet executes in the event loop
+- [The Parsonizer](https://janke-learning.github.io/parsonizer/) - remix the lines of any snippet and piece them back together
+- [Live DOM Viewer](https://software.hixie.ch/utilities/js/live-dom-viewer/) - paste in snippets of HTML to see the DOM & website generated. (like a beginner-friendly inspector)
 
 ## Interactive learning
 - [Codeacademy](https://www.codecademy.com/learn/javascript) - Fundamentals of JavaScript.
