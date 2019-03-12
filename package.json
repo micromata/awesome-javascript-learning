@@ -2,10 +2,12 @@
   "name": "awesome-javascript-learning-ressources",
   "private": true,
   "scripts": {
-    "test": "awesome-lint"
+    "test": "awesome-lint",
+    "toc": "markdown-toc -i --maxdepth 2 readme.md"
   },
   "author": "Michael Kühnel",
   "devDependencies": {
-    "awesome-lint": "^0.1.0"
+    "awesome-lint": "^0.2.0",
+    "markdown-toc": "^1.2.0"
   }
 }
