@@ -7,7 +7,7 @@
   },
   "author": "Michael Kühnel",
   "devDependencies": {
-    "awesome-lint": "^0.2.0",
+    "awesome-lint": "^0.9.1",
     "markdown-toc": "^1.2.0"
   }
 }
