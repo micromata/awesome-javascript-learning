@@ -40,6 +40,7 @@ This list is mainly about JavaScript - the language. Not about APIs, tooling, fr
 - [Glossary of Modern JavaScript Concepts: Part 1](https://auth0.com/blog/glossary-of-modern-javascript-concepts/) - Learn the fundamentals of functional programming, reactive programming, and functional reactive programming in JavaScript.
 - [Glossary of Modern JavaScript Concepts: Part 2](https://auth0.com/blog/glossary-of-modern-javascript-concepts-part-2/) -  Explains concepts like scope and closures, data flow, change detection, components, compilation, tree shaking.
 - [Robust Client-Side JavaScript](https://molily.de/robust-javascript/) - Guide focused on writing robust code by describing possible failures and explaining how to prevent them.
+- [JavaScript Beginners: Friendly Intro & Exercises](https://snipcart.com/blog/javascript-beginner-intro-exercises) -JavaScript beginner? This intro to JS breaks down the language’s ecosystem & mechanics + there are some JavaScript exercises for beginners.
 
 *\*MDN offers a lot of [other guides](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) for every level of knowledge to dig deeper.*
 
