@@ -30,6 +30,7 @@ This list is mainly about JavaScript - the language. Not about APIs, tooling, fr
 - [Functional Programming Jargon](https://functional.works-hub.com/blog/Functional-Programming-Jargon) - Explains terms used in functional programming in the JavaScript context.
 - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Helps developers with basic knowledge to get familiar with modern codebases.
 - [ECMAScript® Language Specification](http://ecma-international.org/publications/standards/Ecma-262.htm) - The standard JavaScript is based on. Only for very advanced learners.
+- [Javascript Reference Info](https://javascript-reference.info/) - Repository of facts about the JavaScript language. 
 
 ## Articles & Tutorials
 
