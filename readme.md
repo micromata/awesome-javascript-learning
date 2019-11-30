@@ -61,6 +61,7 @@ This list is mainly about JavaScript - the language. Not about APIs, tooling, fr
 - [Speaking JavaScript](http://speakingjs.com) - In-depth guide beginning with the basics.
 - [JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Classical and JavaScript specific design patterns.
 - [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/) - Excellent primer to functional programming using JavaScript.
+- [Pragmatic, balanced FP in JavaScript](https://github.com/getify/Functional-Light-JS) - This book is a balanced, pragmatic look at FP in JavaScript.
 
 ## Books
 
