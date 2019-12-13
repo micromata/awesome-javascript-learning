@@ -47,7 +47,7 @@ This list is mainly about JavaScript - the language. Not about APIs, tooling, fr
 
 - [JavaScript Closures Demystified](https://www.sitepoint.com/javascript-closures-demystified/) - Covering closures. From basics to use cases. Has useful comments.
 - [Understanding Hoisting](https://scotch.io/tutorials/understanding-hoisting-in-javascript) - Detailed explanation of the concept of hoisting in JavaScript.
-- [Array operations](https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter) - Covering the usefulness of Array’s map, reduce, and filter methods.
+- [Array operations](https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter) - Covering the usefulness of Array's map, reduce, and filter methods.
 - [Promises](http://www.sohamkamani.com/blog/2016/08/28/incremenal-tutorial-to-promises/) - Learning promises step by step.
 - [Async/Await](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9) - Tutorial showing the advantages of consuming Promises via async functions.
 - [Pure functions](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976) - Answers the question »What is a Pure Function?« epicly.
@@ -77,7 +77,7 @@ Thin books which you can get through in a few days.
 - [Pony Foo](https://ponyfoo.com) - Detailed and high quality posts from Nicolás Bevacqua all related to JavaScript.
 
 ## Videos
-
+<!--lint ignore no-repeat-punctuation-->
 - [== ? === ??? ...#@^%](https://www.youtube.com/watch?v=qGyqzN0bjhc) - Basic talk about type coercion and strict type comparison.
 - [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) - Educational plus entertaining YouTube show covering language features as well as architectural topics amongst others. 
 - [What the heck is the event loop anyway?](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D) - Awesome talk about the way JavaScript works, and a tool for exploring the callstack.
