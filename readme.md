@@ -84,6 +84,7 @@ Thin books which you can get through in a few days.
 - [Become a JavaScript Console Power-User](https://www.youtube.com/watch?v=4mf_yNLlgic) - Introduction to the browsers JavaScript console.
 - [Debugging The Web](https://www.youtube.com/watch?v=HF1luRD4Qmk) - Learn state of the art in debugging using Chrome dev tools.
 - [JavaScript 30](https://javascript30.com) - 30 video tutorials to build neat little things with just plain JavaScript.
+<!--lint ignore no-dead-urls-->
 - [Promises Are So Passé](https://vimeo.com/181328943) - Talk that shows where async goes next, why it matters, and what you need to do to put it into practice today.
 - [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY) - Talk containing the best explanation of map/reduce.
 - [Understand JavaScript's this Keyword in Depth](https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth) - 18 minutes divided into 8 short videos to wrap you head around `this`.
