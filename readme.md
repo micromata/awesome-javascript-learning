@@ -53,6 +53,7 @@ This list is mainly about JavaScript - the language. Not about APIs, tooling, fr
 - [Pure functions](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976) - Answers the question »What is a Pure Function?« epicly.
 - [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) - Describes thoroughly how to use the Fetch API to receive and send data. 
 - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) - Everything you need to know about the debugging tools built into Google Chrome.
+- [Understanding event loop in JavaScript](https://www.loginradius.com/engineering/blog/understanding-event-loop/) - Understanding event loop in JavaScript.
 
 ## Free eBooks
 
