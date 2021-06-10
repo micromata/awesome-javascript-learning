@@ -70,6 +70,7 @@ Thin books which you can get through in a few days.
 - [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) - Classic material which still has relevance.
 - [The Principles of Object-Oriented JavaScript](https://www.nostarch.com/oojs) - Comprehensible, especially interesting for people with a class based OOP background.
 - [JavaScript Enlightenment](http://shop.oreilly.com/product/0636920027713.do) - Will solidify your understanding of the language.
+- [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - A complete guide for JavaScript testing tools and techniques.
 
 ## Blogs
 
