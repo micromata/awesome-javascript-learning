@@ -1,3 +1,4 @@
+<!--lint ignore awesome-license awesome-git-repo-age-->
 # Awesome JavaScript Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://cdn.rawgit.com/voodootikigod/logo.js/master/js.svg" width="125" align="right" alt="JS Logo">
 
 > An awesome list limited to the best JavaScript learning resources
@@ -19,6 +20,7 @@ This list is mainly about JavaScript - the language. Not about APIs, tooling, fr
 - [DOM related](#dom-related)
 - [Node.js](#nodejs)
 - [Related](#related)
+- [License](#license)
 
 ---
 
@@ -108,7 +110,7 @@ Thin books which you can get through in a few days.
 - [ES6 Katas](http://es6katas.org) - Learn ES6 by solving unit test online.
 - [Practical ES6](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices.
 - [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code) - Useful ES6 snippets that you can understand in 30 seconds or less.
-- [What’s the difference between JavaScript and ECMAScript?](https://www.freecodecamp.org/news/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5/) - Clears the confusion about ES6 and Javascript.
+- [What's the difference between JavaScript and ECMAScript?](https://www.freecodecamp.org/news/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5/) - Clears the confusion about ES6 and JavaScript.
 
 ## DOM related
 
