@@ -73,7 +73,7 @@ Thin books which you can get through in a few days.
 - [The Principles of Object-Oriented JavaScript](https://www.nostarch.com/oojs) - Comprehensible, especially interesting for people with a class based OOP background.
 - [JavaScript Enlightenment](http://shop.oreilly.com/product/0636920027713.do) - Will solidify your understanding of the language.
 - [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - A complete guide for JavaScript testing tools and techniques.
-- [The Joy of JavaScript](https://www.manning.com/books/the-joy-of-javascript) - A book that introduces techniques that turn JavaScript programmers into JavaScript pros.
+- [The Joy of JavaScript](https://www.manning.com/books/the-joy-of-javascript) - A book covering advanced language features like Iterators and Generators.
 
 ## Blogs
 
