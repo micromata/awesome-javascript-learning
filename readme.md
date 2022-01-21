@@ -73,6 +73,7 @@ Thin books which you can get through in a few days.
 - [The Principles of Object-Oriented JavaScript](https://www.nostarch.com/oojs) - Comprehensible, especially interesting for people with a class based OOP background.
 - [JavaScript Enlightenment](http://shop.oreilly.com/product/0636920027713.do) - Will solidify your understanding of the language.
 - [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - A complete guide for JavaScript testing tools and techniques.
+- [The Joy of JavaScript](https://www.manning.com/books/the-joy-of-javascript) - A book that introduces techniques that turn JavaScript programmers into JavaScript pros.
 
 ## Blogs
 
@@ -91,6 +92,7 @@ Thin books which you can get through in a few days.
 - [Promises Are So Passé](https://vimeo.com/181328943) - Talk that shows where async goes next, why it matters, and what you need to do to put it into practice today.
 - [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY) - Talk containing the best explanation of map/reduce.
 - [Understand JavaScript's this Keyword in Depth](https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth) - 18 minutes divided into 8 short videos to wrap you head around `this`.
+- [Why program in TypeScript](https://www.youtube.com/watch?v=1TW9SdHIiXI) - An overview of the main syntax constructs focusing on the benefits of using TypeScript as opposed to coding in JavaScript.
 
 ## Interactive learning
 
