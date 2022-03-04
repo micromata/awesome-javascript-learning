@@ -87,7 +87,6 @@ Thin books which you can get through in a few days.
 - [What the heck is the event loop anyway?](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D) - Awesome talk about the way JavaScript works, and a tool for exploring the callstack.
 - [Become a JavaScript Console Power-User](https://www.youtube.com/watch?v=4mf_yNLlgic) - Introduction to the browsers JavaScript console.
 - [Debugging The Web](https://www.youtube.com/watch?v=HF1luRD4Qmk) - Learn state of the art in debugging using Chrome dev tools.
-- [JavaScript 30](https://javascript30.com) - 30 video tutorials to build neat little things with just plain JavaScript.
 <!--lint ignore no-dead-urls-->
 - [Promises Are So Passé](https://vimeo.com/181328943) - Talk that shows where async goes next, why it matters, and what you need to do to put it into practice today.
 - [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY) - Talk containing the best explanation of map/reduce.
@@ -98,7 +97,7 @@ Thin books which you can get through in a few days.
 - [Udacity JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804) - They also offer more advanced courses.
 - [Code School](https://www.codeschool.com/learn/javascript) - From Basics to Best Practices. Different courses related to JavaScript.
 - [Functional programming](http://reactivex.io/learnrx/) - Learn basic principles of functional programming in an interactive way by using map, filter, concatAll, reduce and zip.
-- [JavaScript30](https://javascript30.com) - Video course with 30 small and self-contained tutorials to choose from.
+- [JavaScript30](https://javascript30.com) - Video course with 30 small and self-contained tutorials to build neat little things with plain JavaScript.
 - [Learn JavaScript Online](https://learnjavascript.online) - Interactive JavaScript course with spaced repetiton flashcards app.
 - [Exercism JavaScript Track](https://exercism.io/tracks/javascript) - Exercism provides individual practice and mentor-based learning for free.
 
