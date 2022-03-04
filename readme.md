@@ -95,10 +95,10 @@ Thin books which you can get through in a few days.
 
 ## Interactive learning
 
-- [Codeacademy](https://www.codecademy.com/learn/javascript) - Fundamentals of JavaScript.
 - [Udacity JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804) - They also offer more advanced courses.
 - [Code School](https://www.codeschool.com/learn/javascript) - From Basics to Best Practices. Different courses related to JavaScript.
 - [Functional programming](http://reactivex.io/learnrx/) - Learn basic principles of functional programming in an interactive way by using map, filter, concatAll, reduce and zip.
+- [JavaScript30](https://javascript30.com) - Video course with 30 small and self-contained tutorials to choose from.
 - [Learn JavaScript Online](https://learnjavascript.online) - Interactive JavaScript course with spaced repetiton flashcards app.
 - [Exercism JavaScript Track](https://exercism.io/tracks/javascript) - Exercism provides individual practice and mentor-based learning for free.
 
