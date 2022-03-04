@@ -26,11 +26,11 @@ This list is mainly about JavaScript - the language. Not about APIs, tooling, fr
 
 ## JavaScript References
 
-- [MDN](https://developer.mozilla.org/docs/Web/JavaScript/Reference) - Simply the best language reference.
+- [MDN](https://developer.mozilla.org/docs/Web/JavaScript/Reference) - Simply the most extensive and up to date language reference.
 - [DevDocs](http://devdocs.io/javascript) - Search MDN comfortably. Even offline.
+- [JavaScript Notes & Reference](https://wesbos.com/javascript) - Detailed reference with code examples. Divided into topics covering basic and advanced subjects.
 - [Simplified JavaScript Jargon](http://jargon.js.org) - Glossary which explains all the buzzwords from the JavaScript eco system.
 - [Functional Programming Jargon](https://functional.works-hub.com/blog/Functional-Programming-Jargon) - Explains terms used in functional programming in the JavaScript context.
-- [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Helps developers with basic knowledge to get familiar with modern codebases.
 - [ECMAScript® Language Specification](http://ecma-international.org/publications/standards/Ecma-262.htm) - The standard JavaScript is based on. Only for very advanced learners.
 
 ## Articles & Tutorials
