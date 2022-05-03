@@ -72,6 +72,7 @@ Thin books which you can get through in a few days.
 - [JavaScript Enlightenment](http://shop.oreilly.com/product/0636920027713.do) - Will solidify your understanding of the language.
 - [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - A complete guide for JavaScript testing tools and techniques.
 - [The Joy of JavaScript](https://www.manning.com/books/the-joy-of-javascript) - A book that introduces techniques that turn JavaScript programmers into JavaScript pros.
+- [D3.js in Action, Third Edition](https://www.manning.com/books/d3js-in-action-third-edition) - A book about D3.js that guides you from simple charts to powerful interactive graphics.
 
 ## Blogs
 
