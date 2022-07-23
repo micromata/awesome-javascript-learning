@@ -124,6 +124,7 @@ Thin books which you can get through in a few days.
 - [NodeSchool](https://nodeschool.io) - Interactive self guided workshops you can also do on your own.
 - [Node Patterns](http://nodepatternsbooks.com) - Short books about code and networking patterns related to Node.js.
 - [Learn Node](https://learnnode.com) - A premium training course to learn to build apps with Node.js, Express, MongoDB.
+- [Cross-platform Node.js](https://github.com/ehmicky/cross-platform-node-guide) - How to write cross-platform Node.js code.
 
 ---
 
