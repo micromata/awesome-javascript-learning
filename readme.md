@@ -73,6 +73,7 @@ Thin books which you can get through in a few days.
 - [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - A complete guide for JavaScript testing tools and techniques.
 - [The Joy of JavaScript](https://www.manning.com/books/the-joy-of-javascript) - A book that introduces techniques that turn JavaScript programmers into JavaScript pros.
 - [D3.js in Action, Third Edition](https://www.manning.com/books/d3js-in-action-third-edition) - A book about D3.js that guides you from simple charts to powerful interactive graphics.
+- [Tiny Node Projects](https://www.manning.com/books/tiny-node-projects) - 15 fast and fresh Nonde.js projects that will help you go from front-end to full-stack.
 
 ## Blogs
 
