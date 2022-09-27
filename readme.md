@@ -1,4 +1,3 @@
-<!--lint ignore awesome-license awesome-git-repo-age-->
 # Awesome JavaScript Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://cdn.rawgit.com/voodootikigod/logo.js/master/js.svg" width="125" align="right" alt="JS Logo">
 
 > An awesome list limited to the best JavaScript learning resources
@@ -20,7 +19,6 @@ This list is mainly about JavaScript - the language. Not about APIs, tooling, fr
 - [DOM related](#dom-related)
 - [Node.js](#nodejs)
 - [Related](#related)
-- [License](#license)
 
 ---
 
@@ -129,9 +127,3 @@ Thin books which you can get through in a few days.
 ## Related
 
 [Awesome CSS Learning](https://github.com/micromata/awesome-css-learning) - An awesome list limited to the best CSS learning resources.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Michael Kühnel](http://micromata.de) has waived all copyright and related or neighboring rights to this work.
