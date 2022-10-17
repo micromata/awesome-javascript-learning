@@ -97,6 +97,7 @@ Thin books which you can get through in a few days.
 - [Functional programming](http://reactivex.io/learnrx/) - Learn basic principles of functional programming in an interactive way by using map, filter, concatAll, reduce and zip.
 - [JavaScript30](https://javascript30.com) - Video course with 30 small and self-contained tutorials to build neat little things with plain JavaScript.
 - [Learn JavaScript Online](https://learnjavascript.online) - Interactive JavaScript course with spaced repetiton flashcards app.
+- [Javascript for Biginners](https://www.scaler.com/topics/course/javascript-beginners/) - Learn programming fundamentals and core concepts of JavaScript.
 - [Exercism JavaScript Track](https://exercism.io/tracks/javascript) - Exercism provides individual practice and mentor-based learning for free.
 
 ## ES6 and above
