@@ -74,6 +74,7 @@ Thin books which you can get through in a few days.
 - [JavaScript Enlightenment](http://shop.oreilly.com/product/0636920027713.do) - Will solidify your understanding of the language.
 - [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - A complete guide for JavaScript testing tools and techniques.
 - [The Joy of JavaScript](https://www.manning.com/books/the-joy-of-javascript) - A book that introduces techniques that turn JavaScript programmers into JavaScript pros.
+- [Tiny Node Projects](https://www.manning.com/books/tiny-node-projects) - A book with 15 fast and fresh Nonde.js projects that will help you go from front-end to full-stack.
 
 
 ## Blogs
