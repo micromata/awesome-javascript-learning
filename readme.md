@@ -98,6 +98,7 @@ Thin books which you can get through in a few days.
 - [JavaScript30](https://javascript30.com) - Video course with 30 small and self-contained tutorials to build neat little things with plain JavaScript.
 - [Learn JavaScript Online](https://learnjavascript.online) - Interactive JavaScript course with spaced repetiton flashcards app.
 - [Exercism JavaScript Track](https://exercism.io/tracks/javascript) - Exercism provides individual practice and mentor-based learning for free.
+- [Learn JavaScript in Detail](https://www.scaler.com/topics/javascript/) - This tutorial covers all the important concepts in JavaScript from the very basics to advanced level.
 
 ## ES6 and above
 
