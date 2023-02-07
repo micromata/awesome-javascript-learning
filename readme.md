@@ -19,6 +19,7 @@ This list is mainly about JavaScript - the language. Not about APIs, tooling, fr
 - [DOM related](#dom-related)
 - [Node.js](#nodejs)
 - [Related](#related)
+- [Roadmap](#roadmap)
 
 ---
 
@@ -127,3 +128,7 @@ Thin books which you can get through in a few days.
 ## Related
 
 [Awesome CSS Learning](https://github.com/micromata/awesome-css-learning) - An awesome list limited to the best CSS learning resources.
+
+## Roadmap
+
+[JavaScript](https://roadmap.sh/javascript) - An awesome roadmap for JavaScript.
