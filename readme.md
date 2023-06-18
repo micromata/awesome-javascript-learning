@@ -127,3 +127,4 @@ Thin books which you can get through in a few days.
 ## Related
 
 [Awesome CSS Learning](https://github.com/micromata/awesome-css-learning) - An awesome list limited to the best CSS learning resources.
+[Awesome JavasScript Roadmap](https://roadmap.sh/javascript) - A great roadmap that gives you the exact path you should take to go from zero to hero in your JavaScript journey.
