@@ -1,8 +1,8 @@
 # Awesome JavaScript Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://cdn.rawgit.com/voodootikigod/logo.js/master/js.svg" width="125" align="right" alt="JS Logo">
 
-> An awesome list limited to the best JavaScript learning resources
+> An awesome list limited to the best JavaScript learning resources.
 
-This list is mainly about JavaScript - the language. Not about APIs, tooling, frameworks or other aspects of todays JavaScript ecosystem.
+This list is mainly about JavaScript - the language. Not about; APIs, tooling, frameworks or other aspects of todays JavaScript ecosystem.
 
 *Please read the [contribution guidelines](.github/contributing.md) before contributing.*
 
@@ -22,7 +22,7 @@ This list is mainly about JavaScript - the language. Not about APIs, tooling, fr
 
 ---
 
-## JavaScript References
+## JavaScript References.
 
 - [MDN](https://developer.mozilla.org/docs/Web/JavaScript/Reference) - Simply the most extensive and up to date language reference.
 - [DevDocs](http://devdocs.io/javascript) - Search MDN comfortably. Even offline.
@@ -31,7 +31,7 @@ This list is mainly about JavaScript - the language. Not about APIs, tooling, fr
 - [Functional Programming Jargon](https://functional.works-hub.com/blog/Functional-Programming-Jargon) - Explains terms used in functional programming in the JavaScript context.
 - [ECMAScript® Language Specification](http://ecma-international.org/publications/standards/Ecma-262.htm) - The standard JavaScript is based on. Only for very advanced learners.
 
-## Articles & Tutorials
+## Articles & Tutorials.
 
 ### Overall Topics
 
@@ -54,7 +54,7 @@ This list is mainly about JavaScript - the language. Not about APIs, tooling, fr
 - [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) - Describes thoroughly how to use the Fetch API to receive and send data. 
 - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) - Everything you need to know about the debugging tools built into Google Chrome.
 
-## Free eBooks
+## Free eBooks:
 
 - [Eloquent JavaScript](http://eloquentjavascript.net) - Covering the language and runtime specifics.
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) - Series of books diving deep into language.
@@ -65,7 +65,7 @@ This list is mainly about JavaScript - the language. Not about APIs, tooling, fr
 
 ## Books
 
-Thin books which you can get through in a few days.
+Thin books/ booklets which you can get through in a few days:
 
 - [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) - Classic material which still has relevance.
 - [The Principles of Object-Oriented JavaScript](https://www.nostarch.com/oojs) - Comprehensible, especially interesting for people with a class based OOP background.
@@ -73,7 +73,7 @@ Thin books which you can get through in a few days.
 - [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - A complete guide for JavaScript testing tools and techniques.
 - [The Joy of JavaScript](https://www.manning.com/books/the-joy-of-javascript) - A book covering advanced language features like Iterators and Generators.
 
-## Blogs
+## Blogs;
 
 - [②ality](http://www.2ality.com) - Language features and APIs well explained by author and trainer Dr. Axel Rauschmayer.
 - [Pony Foo](https://ponyfoo.com) - Detailed and high quality posts from Nicolás Bevacqua all related to JavaScript.
@@ -90,7 +90,7 @@ Thin books which you can get through in a few days.
 - [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY) - Talk containing the best explanation of map/reduce.
 - [Understand JavaScript's this Keyword in Depth](https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth) - 18 minutes divided into 8 short videos to wrap you head around `this`.
 
-## Interactive learning
+## Interactive learning:
 
 - [Udacity JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804) - They also offer more advanced courses.
 - [Code School](https://www.codeschool.com/learn/javascript) - From Basics to Best Practices. Different courses related to JavaScript.
@@ -99,7 +99,7 @@ Thin books which you can get through in a few days.
 - [Learn JavaScript Online](https://learnjavascript.online) - Interactive JavaScript course with spaced repetiton flashcards app.
 - [Exercism JavaScript Track](https://exercism.io/tracks/javascript) - Exercism provides individual practice and mentor-based learning for free.
 
-## ES6 and above
+## ES6 and above:
 
 - [Exploring ES6](http://exploringjs.com/es6.html) - Good introduction with in-depth chapters.
 - [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017.html) - Follow up of »Exploring ES6«.
@@ -109,13 +109,13 @@ Thin books which you can get through in a few days.
 - [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code) - Useful ES6 snippets that you can understand in 30 seconds or less.
 - [What's the difference between JavaScript and ECMAScript?](https://www.freecodecamp.org/news/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5/) - Clears the confusion about ES6 and JavaScript.
 
-## DOM related
+## DOM related:
 
 - [DOM Enlightenment](http://domenlightenment.com) - A whole book about how to access an manipulate the DOM without a library.
 - [You Might Not Need jQuery](http://youmightnotneedjquery.com) - Get plain JavaScript code snippets (and see their jQuery equivalents).
 - [Traversing the DOM with JavaScript](https://zellwk.com/blog/dom-traversals/) - A tutorial featuring native methods to traverse the DOM.
 
-## Node.js
+## Node.js:
 
 - [The Art of Node](https://github.com/maxogden/art-of-node#readme) - Introductory tutorial covering the basics. 
 - [NodeSchool](https://nodeschool.io) - Interactive self guided workshops you can also do on your own.
