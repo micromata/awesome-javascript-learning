@@ -6,6 +6,6 @@
   },
   "author": "Michael Kühnel",
   "devDependencies": {
-    "awesome-lint": "^1.1.0"
+    "awesome-lint": "^1.2.0"
   }
 }
