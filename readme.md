@@ -72,6 +72,7 @@ Thin books which you can get through in a few days.
 - [JavaScript Enlightenment](http://shop.oreilly.com/product/0636920027713.do) - Will solidify your understanding of the language.
 - [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - A complete guide for JavaScript testing tools and techniques.
 - [The Joy of JavaScript](https://www.manning.com/books/the-joy-of-javascript) - A book covering advanced language features like Iterators and Generators.
+- [JavaScript in Depth](https://www.manning.com/books/javascript-in-depth) - A book that goes beyond the basic syntax and common implementations to expose the secrets of its engines, runtimes, and language design decisions.
 
 ## Blogs
 
