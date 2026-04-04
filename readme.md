@@ -90,6 +90,7 @@ Thin books which you can get through in a few days.
 - [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY) - Talk containing the best explanation of map/reduce.
 - [Understand JavaScript's this Keyword in Depth](https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth) - 18 minutes divided into 8 short videos to wrap you head around `this`.
 
+- [LearnAI](https://uselearnai.com) - AI-powered tutor that generates personalized JavaScript curricula and teaches through conversation. Adapts to your pace and skill level.
 ## Interactive learning
 
 - [Udacity Introduction to JavaScript](https://www.udacity.com/course/intro-to-javascript--cd2073) - They also offer more advanced courses.
