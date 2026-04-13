@@ -91,9 +91,8 @@ Thin books which you can get through in a few days.
 - [Understand JavaScript's this Keyword in Depth](https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth) - 18 minutes divided into 8 short videos to wrap you head around `this`.
 
 ## Interactive learning
-
+* [JS Exercises](https://jsexercises.com) - Interactive JavaScript courses and 300+ exercises from basics to advanced topics with an in-browser code editor.
 - [Udacity Introduction to JavaScript](https://www.udacity.com/course/intro-to-javascript--cd2073) - They also offer more advanced courses.
-- [Code School](https://www.codeschool.com/learn/javascript) - From Basics to Best Practices. Different courses related to JavaScript.
 - [Functional programming](http://reactivex.io/learnrx/) - Learn basic principles of functional programming in an interactive way by using map, filter, concatAll, reduce and zip.
 - [JavaScript30](https://javascript30.com) - Video course with 30 small and self-contained tutorials to build neat little things with plain JavaScript.
 - [Learn JavaScript Online](https://learnjavascript.online) - Interactive JavaScript course with spaced repetiton flashcards app.
