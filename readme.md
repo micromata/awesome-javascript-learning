@@ -127,3 +127,5 @@ Thin books which you can get through in a few days.
 ## Related
 
 [Awesome CSS Learning](https://github.com/micromata/awesome-css-learning) - An awesome list limited to the best CSS learning resources.
+
+[No Stairs Please](https://nostairsplease.com/) - Live-music venue directory and remote [MCP server](https://nostairsplease.com/mcp) covering small stages across all 50 US states.
